@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="36" started-at="2020-03-06T05:54:45Z" finished-at="2020-03-06T05:54:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="36" started-at="2020-03-06T05:54:45Z" finished-at="2020-03-06T05:54:45Z">
+      <class name="com.javapractice.classes.ArrayPart3">
+        <test-method status="PASS" signature="convertArrayListToArry()[pri:0, instance:com.javapractice.classes.ArrayPart3@6a024a67]" name="convertArrayListToArry" duration-ms="12" started-at="2020-03-06T11:24:45Z" finished-at="2020-03-06T11:24:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- convertArrayListToArry -->
+        <test-method status="PASS" signature="equalityOfTwoArray()[pri:0, instance:com.javapractice.classes.ArrayPart3@6a024a67]" name="equalityOfTwoArray" duration-ms="2" started-at="2020-03-06T11:24:45Z" finished-at="2020-03-06T11:24:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- equalityOfTwoArray -->
+      </class> <!-- com.javapractice.classes.ArrayPart3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
